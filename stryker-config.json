@@ -13,15 +13,6 @@
       "high": 80,
       "low": 60
     },
-    "since": {
-      "target": "master",
-      "ignore-changes-in": [
-        "**/*.md",
-        "**/*.yml",
-        "**/*.json",
-        "**/*.txt"
-      ]
-    },
     "reporters": [
       "json",
       "html",
